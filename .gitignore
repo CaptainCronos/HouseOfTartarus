@@ -1,0 +1,29 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# LibreOffice lock and recovery files
+.~lock.*
+*.lock
+*.recovery
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated website output
+website/static-html/dist/
+website/static-html/build/
+website/wordpress/.wp-env/
+website/wordpress/wp-content/cache/
+
+# Local-only working files
+working/
+scratch/

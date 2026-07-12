@@ -1,0 +1,25 @@
+house:
+  name: House of Tartarus
+
+branding:
+  motto:
+    - Discipline
+    - Dignity
+    - Development
+
+  statement: "All are Welcome ◆ Respect is Required"
+
+contacts:
+  discord: "Email us on Fet for invite"
+  email: "captaincronos@houseoftartarus.com"
+  website: "www.houseoftartarus.com"
+
+card:
+  template: "templates/avery-28878/Avery-Business-Cards-28878.ott"
+  front_master: "assets/cards/front/front-master.png"
+  back_master: "assets/cards/back/back-master.png"
+
+printing:
+  card_width_inches: 3.5
+  card_height_inches: 2.0
+  safe_margin_inches: 0.08
